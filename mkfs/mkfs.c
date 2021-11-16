@@ -1,3 +1,5 @@
+//It is typically like thr defs.h in c
+
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
